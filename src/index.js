@@ -63,7 +63,7 @@ for (const key in obj) {
                 number_2 = 'eleven';
                 number_1 = ''
             } else if (number_1 == "two") {
-                number_2 = 'tvelve';
+                number_2 = 'twelve';
                 number_1 = ''
             } else if (number_1 == "three") {
                 number_2 = 'thirteen';

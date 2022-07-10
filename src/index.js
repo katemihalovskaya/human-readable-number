@@ -16,11 +16,6 @@ function toReadable(number) {
     let number_2;
     let number_3;
     let number_4;
-    // for (const key in obj) {
-    //     if (parseInt(number/100)) {
-
-    //     }
-    // }
 
 for (const key in obj) {
     if (numberStr[numberStr.length-1] == key) {
@@ -85,9 +80,3 @@ for (const key in obj) {
 };
     return `${number_4} ${number_3} ${number_2} ${number_1}`;
 };
-
-
-toReadable(224);
-toReadable(112);
-toReadable(11);
-toReadable(987);
